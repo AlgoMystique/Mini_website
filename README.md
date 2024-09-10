@@ -6,7 +6,7 @@ This is a single webpage designed to collect visitor contact information in a po
 
 You can view the live webpage here: https://algomystique.github.io/Mini_website
 
-**Features**
+**Features:**
 
 Header and Footer: The webpage includes a header and footer for a complete layout.
 
