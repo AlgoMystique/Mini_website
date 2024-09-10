@@ -1,13 +1,17 @@
-* A single webpage that collects a visitor's contact information.
-  
-* The landing page have a header and footer.
+**Welcome to the Mini Website!**
 
-* The landing page have an image with a caption.
+This is a single webpage designed to collect visitor contact information in a polished and accessible manner.
 
-* The landing page have a contact form.
+**Live Demo**
 
-* The landing page have a polished and accessible UI.
+You can view the live webpage here: https://algomystique.github.io/Mini_website
 
-* Link: https://algomystique.github.io/Mini_website
+**Features**
 
-  
+Header and Footer: The webpage includes a header and footer for a complete layout.
+
+Image with Caption: An image is featured on the page with a descriptive caption.
+
+Contact Form: A form for visitors to submit their contact information.
+
+Polished and Accessible UI: Designed with user experience and accessibility in mind.
