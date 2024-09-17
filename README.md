@@ -1,4 +1,4 @@
-**Welcome to the Mini Website!**
+**Welcome to the Mini Website! W2 **
 
 This is a single webpage designed to collect visitor contact information in a polished and accessible manner.
 
